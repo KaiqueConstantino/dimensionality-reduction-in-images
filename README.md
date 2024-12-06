@@ -29,3 +29,8 @@ Applies a threshold (default: 128) to classify each pixel as black (0) or white 
 Output Images:
 A grayscale version (lena_grayscale.jpg).
 A binary version (lena_binary.jpg).
+
+### Learning Outcomes
+Understanding pixel manipulation and image processing fundamentals.
+Developing algorithms for grayscale and binary transformations without relying on pre-built functions.
+Gaining practical experience with Python loops, conditionals, and mathematical operations.
